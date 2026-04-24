@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "serpstat": {
+      "command": "npx",
+      "args": ["-y", "@serpstat/serpstat-mcp-server"],
+      "env": {
+        "SERPSTAT_API_TOKEN": "3d7c560f4e7aa400da446990ed2c6e72"
+      }
+    }
+  }
+}
