@@ -1,2 +1,5 @@
 # MCP server config contains API token - keep local only
 .mcp.json
+
+# MCP server logs
+*.log
