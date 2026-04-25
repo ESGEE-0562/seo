@@ -4,7 +4,8 @@
       "command": "npx",
       "args": ["-y", "@serpstat/serpstat-mcp-server"],
       "env": {
-        "SERPSTAT_API_TOKEN": "0fbb242eb44e3ac4651370660d260eb2"
+        "SERPSTAT_API_TOKEN": "0fbb242eb44e3ac4651370660d260eb2",
+        "LOG_LEVEL": "debug"
       }
     }
   }
